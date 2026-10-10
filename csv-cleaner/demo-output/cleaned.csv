@@ -1,0 +1,4 @@
+﻿name,email,phone,company,source
+Анна Сергеева,anna@example.com,+7 900 111-22-33,Маяк,contacts_a.csv
+Иван Петров,ivan@example.com,+7 900 222-33-44,Вектор,contacts_a.csv
+Ольга Миронова,olga@example.com,,Орион,contacts_b.csv

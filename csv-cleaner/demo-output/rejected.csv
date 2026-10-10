@@ -1,0 +1,4 @@
+﻿source,row,reason,name,email,phone,company
+contacts_a.csv,4,некорректный или пустой email,Без почты,,+7 900 333-44-55,Маяк
+contacts_b.csv,2,дубликат email,Анна Сергеева,anna@example.com,+7 900 111-22-33,Маяк
+contacts_b.csv,4,некорректный или пустой email,Пётр Сидоров,wrong-address,+7 900 444-55-66,Вектор
